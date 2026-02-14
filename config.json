@@ -1,0 +1,168 @@
+{
+  "names": {
+    "sender": "Anbu",
+    "receiver": "Manjima"
+  },
+  "theme": {
+    "primaryColor": "#ff7ab2",
+    "secondaryColor": "#ff4d8d",
+    "accentColor": "#ffc0cb",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Will you be my Valentine?",
+    "subtitle": "Choose wisely. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖 YAYYYYY!!! 💖",
+    "successSubtitle": "That's the best decision ❤️😘",
+    "giftsTitle": "💝 Your Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts, Potato",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "photosTitle": "Every Moment with You!📸",
+    "letterTitle": "To the Girl I Love most!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift1.jpg",
+    "gift2": "/src/assets/gift/gift2.jpg", 
+    "gift3": "/src/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "/src/assets/couple_photo/firstmeet.jepg",
+      "caption": "Our special moment together."
+    },
+    {
+      "image": "/src/assets/couple_photo/2.jepg", 
+      "caption": "Holding hands forever."
+    },
+    {
+      "image": "/src/assets/couple_photo/h.jpg",
+      "caption": "You and me forever."
+    },
+    {
+      "image": "/src/assets/couple_photo/firstout.jpeg",
+      "caption": "When you made me smile like this"
+    },
+    {
+      "image": "/src/assets/couple_photo/secondout.jpeg",
+      "caption": "It is our second outing."
+    },
+    {
+      "image": "/src/assets/couple_photo/world.jpeg",
+      "caption": "My whole world in one frame."
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I'll cook your fav food like it's my love language 🍳"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif", 
+      "text": "Unlimited comfort and care"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "I listen… like actually listen"
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
+    },
+    {
+      "gif": "/src/assets/photo-bear.gif",
+      "text": "Your personal photographer for all the cute moments 📸"
+    },
+    {
+      "gif": "/src/assets/music-bear.gif",
+      "text": "Live singing performances… just for you 🎶😉"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Anal Mele Panithuli",
+      "duration": "5:10",
+      "album": "Vaaranam Aayiram",
+      "artist": "",
+      "cover": "/src/assets/album-covers/anal mele pani thuli.jpg",
+      "audio": "/src/assets/songs/Anal Mele.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Engae Andha Vennila",
+      "duration": "5:01", 
+      "album": "varushamellam vasantham",
+      "artist": "",
+      "cover": "/src/assets/album-covers/enge andha vennila.jpg",
+      "audio": "/src/assets/songs/Engae Andha Vennila.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Malare Ninne",
+      "duration": "5:16",
+      "album": "Premam",
+      "artist": "",
+      "cover": "/src/assets/album-covers/malare ninne.jpg",
+      "audio": "/src/assets/songs/Malare Ninne.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Munbe Va",
+      "duration": "5:57",
+      "album": "",
+      "artist": "",
+      "cover": "/src/assets/album-covers/munbe va.jpg",
+      "audio": "/src/assets/songs/Munbe Vaa.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Ye Tune Kya Kiya",
+      "duration": "5:32",
+      "album": "Once Upon A Time In Mumbaai Dobara",
+      "artist": "",
+      "cover": "/src/assets/album-covers/ye tune kya kiya.jpg",
+      "audio": "/src/assets/songs/Ye Tune Kya Kiya.mp3"
+    }
+  ],
+  "letter": {
+    "title": "My Dearest Potato!!,",
+    "content": [
+      "I fell for you in a way I never expected, and now every day feels brighter just because you're in it.",
+      "Loving you comes so naturally. It's in your smile, your laugh, and the comfort I feel whenever I'm with you.",
+      "You are my favorite part of every moment, and the best thing that ever happened to me."
+    ],
+    "signature": "Forever yours,\nAnbu"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
