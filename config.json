@@ -25,74 +25,74 @@
     "prosConsSubtitle": "Nothing!!!!"
   },
   "media": {
-    "mainBearGif": "/src/assets/cute-bear.gif",
-    "musicBearGif": "/src/assets/music-bear.gif",
-    "comfortBearGif": "/src/assets/comfort-bear.gif",
-    "kissBearGif": "/src/assets/kiss-bears.gif",
-    "photoBearGif": "/src/assets/photo-bear.gif",
-    "loveYouBearGif": "/src/assets/love-you-bear.gif",
-    "childGif": "/src/assets/child.gif",
-    "roseBearGif": "/src/assets/rose-bear.gif",
-    "cookBearGif": "/src/assets/cook-bear.gif",
-    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
-    "leftButton": "/src/assets/left-button.png",
-    "rightButton": "/src/assets/right-button.png",
+ "mainBearGif": "https://res.cloudinary.com/deywo9zss/image/upload/v1771063495/cute-bear_qjdq6n.gif",
+    "musicBearGif": "https://res.cloudinary.com/deywo9zss/image/upload/v1771063499/music-bear_adnum4.gif",
+    "comfortBearGif": "https://res.cloudinary.com/deywo9zss/image/upload/v1771063495/comfort-bear_d0rc8i.gif",
+    "kissBearGif": "https://res.cloudinary.com/deywo9zss/image/upload/v1771063498/kiss-bears_axcqz1.gif",
+    "photoBearGif": "https://res.cloudinary.com/deywo9zss/image/upload/v1771063499/photo-bear_ihhuuu.gif",
+    "loveYouBearGif": "https://res.cloudinary.com/deywo9zss/image/upload/v1771063500/love-you-bear_cjmlof.gif",
+    "childGif": "https://res.cloudinary.com/deywo9zss/image/upload/v1771063522/child_phedjt.gif",
+    "roseBearGif": "https://res.cloudinary.com/deywo9zss/image/upload/v1771063501/rose-bear_bcoicc.gif",
+    "cookBearGif": "https://res.cloudinary.com/deywo9zss/image/upload/v1771063497/cook-bear_qlcimq.gif",
+    "kissSingleBearGif": "https://res.cloudinary.com/deywo9zss/image/upload/v1771063498/kiss-bear_igkgta.gif",
+    "leftButton": "https://res.cloudinary.com/deywo9zss/image/upload/v1771063497/left-button_nkuorh.png",
+    "rightButton": "https://res.cloudinary.com/deywo9zss/image/upload/v1771063505/right-button_l7m9rb.png",
     "envelopeSeal": "❤️"
   },
   "gifts": {
-    "gift1": "/src/assets/gift/gift1.jpg",
-    "gift2": "/src/assets/gift/gift2.jpg", 
-    "gift3": "/src/assets/gift/gift3.jpg"
+    "gift1": "https://res.cloudinary.com/deywo9zss/image/upload/v1771069680/gift1_m2cumg.jpg",
+    "gift2": "https://res.cloudinary.com/deywo9zss/image/upload/v1771069680/gift1_m2cumg.jpg", 
+    "gift3": "https://res.cloudinary.com/deywo9zss/image/upload/v1771069680/gift1_m2cumg.jpg"
   },
   "couplePhotos": [
     {
-      "image": "/src/assets/couple_photo/firstmeet.jepg",
+      "image": "https://res.cloudinary.com/deywo9zss/image/upload/v1771072142/firstmeet_zdkjmr.jpg",
       "caption": "Our special moment together."
     },
     {
-      "image": "/src/assets/couple_photo/2.jepg", 
+      "image": "https://res.cloudinary.com/deywo9zss/image/upload/v1771072142/2_vnbhqi.jpg", 
       "caption": "Holding hands forever."
     },
     {
-      "image": "/src/assets/couple_photo/h.jpg",
+      "image": "https://res.cloudinary.com/deywo9zss/image/upload/v1771072143/h_rrondj.jpg",
       "caption": "You and me forever."
     },
     {
-      "image": "/src/assets/couple_photo/firstout.jpeg",
+      "image": "https://res.cloudinary.com/deywo9zss/image/upload/v1771072142/firstout_o3tdry.jpg",
       "caption": "When you made me smile like this"
     },
     {
-      "image": "/src/assets/couple_photo/secondout.jpeg",
+      "image": "https://res.cloudinary.com/deywo9zss/image/upload/v1771072143/secondout_md6vkb.jpg",
       "caption": "It is our second outing."
     },
     {
-      "image": "/src/assets/couple_photo/world.jpeg",
+      "image": "https://res.cloudinary.com/deywo9zss/image/upload/v1771072143/world_r0kp9y.jpg",
       "caption": "My whole world in one frame."
     }
   ],
   "prosCons": [
     {
-      "gif": "/src/assets/cook-bear.gif",
+      "gif": "https://res.cloudinary.com/deywo9zss/image/upload/v1771063497/cook-bear_qlcimq.gif",
       "text": "I'll cook your fav food like it's my love language 🍳"
     },
     {
-      "gif": "/src/assets/comfort-bear.gif", 
+      "gif": "https://res.cloudinary.com/deywo9zss/image/upload/v1771063495/comfort-bear_d0rc8i.gif", 
       "text": "Unlimited comfort and care"
     },
     {
-      "gif": "/src/assets/cute-bear.gif",
+      "gif": "https://res.cloudinary.com/deywo9zss/image/upload/v1771063495/cute-bear_qjdq6n.gif",
       "text": "I listen… like actually listen"
     },
     {
-      "gif": "/src/assets/kiss-bears.gif",
+      "gif": "https://res.cloudinary.com/deywo9zss/image/upload/v1771063498/kiss-bear_igkgta.gif",
       "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
     },
     {
-      "gif": "/src/assets/photo-bear.gif",
+      "gif": "https://res.cloudinary.com/deywo9zss/image/upload/v1771063499/photo-bear_ihhuuu.gif",
       "text": "Your personal photographer for all the cute moments 📸"
     },
     {
-      "gif": "/src/assets/music-bear.gif",
+      "gif": "https://res.cloudinary.com/deywo9zss/image/upload/v1771063499/music-bear_adnum4.gif",
       "text": "Live singing performances… just for you 🎶😉"
     }
   ],
@@ -103,8 +103,8 @@
       "duration": "5:10",
       "album": "Vaaranam Aayiram",
       "artist": "",
-      "cover": "/src/assets/album-covers/anal mele pani thuli.jpg",
-      "audio": "/src/assets/songs/Anal Mele.mp3"
+      "cover": "https://res.cloudinary.com/deywo9zss/image/upload/v1771072251/anal_mele_pani_thuli_ucibl6.jpg",
+      "audio": "https://res.cloudinary.com/deywo9zss/video/upload/v1771072315/Anal_Mele_wvu0qt.mp3"
     },
     {
       "id": 2,
@@ -112,8 +112,8 @@
       "duration": "5:01", 
       "album": "varushamellam vasantham",
       "artist": "",
-      "cover": "/src/assets/album-covers/enge andha vennila.jpg",
-      "audio": "/src/assets/songs/Engae Andha Vennila.mp3"
+      "cover": "https://res.cloudinary.com/deywo9zss/image/upload/v1771072251/enge_andha_vennila_bny8ll.jpg",
+      "audio": "https://res.cloudinary.com/deywo9zss/video/upload/v1771072315/Anal_Mele_wvu0qt.mp3"
     },
     {
       "id": 3,
@@ -121,8 +121,8 @@
       "duration": "5:16",
       "album": "Premam",
       "artist": "",
-      "cover": "/src/assets/album-covers/malare ninne.jpg",
-      "audio": "/src/assets/songs/Malare Ninne.mp3"
+      "cover": "https://res.cloudinary.com/deywo9zss/image/upload/v1771072251/malare_ninne_d2vnom.jpg",
+      "audio": "https://res.cloudinary.com/deywo9zss/video/upload/v1771072317/Malare_Ninne_om9z5q.mp3"
     },
     {
       "id": 4,
@@ -130,8 +130,8 @@
       "duration": "5:57",
       "album": "",
       "artist": "",
-      "cover": "/src/assets/album-covers/munbe va.jpg",
-      "audio": "/src/assets/songs/Munbe Vaa.mp3"
+      "cover": "https://res.cloudinary.com/deywo9zss/image/upload/v1771072252/munbe_va_evjgww.jpg",
+      "audio": "https://res.cloudinary.com/deywo9zss/video/upload/v1771072318/Munbe_Vaa_bkbfyf.mp3"
     },
     {
       "id": 5,
@@ -139,8 +139,8 @@
       "duration": "5:32",
       "album": "Once Upon A Time In Mumbaai Dobara",
       "artist": "",
-      "cover": "/src/assets/album-covers/ye tune kya kiya.jpg",
-      "audio": "/src/assets/songs/Ye Tune Kya Kiya.mp3"
+      "cover": "https://res.cloudinary.com/deywo9zss/image/upload/v1771072252/ye_tune_kya_kiya_d7blzj.jpg",
+      "audio": "https://res.cloudinary.com/deywo9zss/video/upload/v1771072316/Ye_Tune_Kya_Kiya_t9a93j.mp3"
     }
   ],
   "letter": {
